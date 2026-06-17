@@ -1,7 +1,7 @@
 import { useInView } from "react-intersection-observer";
 import { motion } from "framer-motion";
 import { useNavigate } from "react-router-dom";
-import combo from "../../assets/productimg/combo.png";
+import combo from "../../assets/productimg/combo.jpg";
 
 const Combo = () => {
   const { ref, inView } = useInView({

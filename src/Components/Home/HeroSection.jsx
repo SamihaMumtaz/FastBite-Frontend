@@ -13,8 +13,8 @@ import { GiChicken, GiPizzaSlice, GiHamburger, GiCupcake } from "react-icons/gi"
 import richard from "../../assets/productimg/Team/hamza.jpg";
 import areeba from "../../assets/productimg/Team/areeba.jpg";
 import fastest from "../../assets/productimg/fastest.png";
-import vegburger from "../../assets/productimg/vegburger.jpeg";
-import chickenwrap from "../../assets/productimg/chickenwrap.jpeg";
+import vegburger from "../../assets/productimg/vegburger.jpg";
+import chickenwrap from "../../assets/productimg/chickenwrap.jpg";
 
 const HeroSection = () => {
   const ref = useRef(null);

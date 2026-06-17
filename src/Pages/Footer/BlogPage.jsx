@@ -4,12 +4,12 @@ import { Link } from "react-router-dom";
 import { FaCalendar, FaUser, FaArrowRight, FaClock } from "react-icons/fa";
 import CurvedBG from "../../assets/productimg/curved.png";
 import food from "../../assets/productimg/food.png";
-import health from "../../assets/productimg/health.jpeg"
-import bbq from "../../assets/productimg/bbq.jpeg"
-import burger from "../../assets/productimg/burger.jpeg";
-import ingredients from "../../assets/productimg/ingredients.webp"
+import health from "../../assets/productimg/health.jpg"
+import bbq from "../../assets/productimg/bbq.jpg"
+import burger from "../../assets/productimg/burger.jpg";
+import ingredients from "../../assets/productimg/ingredients.jpg"
 import mealprep from "../../assets/productimg/mealprep.jpg"
-import trends from "../../assets/productimg/trends.jpeg"
+import trends from "../../assets/productimg/trends.jpg"
 
 const BlogPage = () => {
   useEffect(() => {

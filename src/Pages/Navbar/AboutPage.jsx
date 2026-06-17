@@ -1,5 +1,5 @@
 import React, { useEffect } from "react";
-import aboutImg from "../../assets/productimg/aboutus.png";
+import aboutImg from "../../assets/productimg/aboutus.jpg";
 import About from "../../Components/Home/About";
 import Choose from "./Choose";
 
